@@ -1,4 +1,4 @@
-
+package ex1;
 
 public interface Visitor {
     void visit(Carro c);

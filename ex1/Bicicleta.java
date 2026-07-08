@@ -1,4 +1,4 @@
-
+package ex1;
 
 public class Bicicleta extends Veiculo{
     public void accept(Visitor v){

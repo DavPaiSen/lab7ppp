@@ -1,4 +1,4 @@
-
+package ex1;
 
 public class MessageVisitor implements Visitor {
     @Override

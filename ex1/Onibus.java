@@ -1,4 +1,4 @@
-
+package ex1;
 
 public class Onibus extends Veiculo {
     public void accept(Visitor v){
